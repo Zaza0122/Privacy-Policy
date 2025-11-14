@@ -2,7 +2,7 @@ Privacy Policy for NXZL
 
 Effective Date: 2025.11.14
 
-NXZL our respects your privacy and is committed to protecting the personal information you share while using our Discord bot (the “Bot”). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you interact with the Bot. By using the Bot, you agree to the terms of this Privacy Policy.
+NXZL Bot respects your privacy and is committed to protecting the personal information you share while using our Discord bot (the NXZL). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you interact with the Bot. By using the Bot, you agree to the terms of this Privacy Policy.
 
 1. Information We Collect
 When you use the Bot, we may collect the following types of information:
@@ -28,7 +28,7 @@ To monitor and analyze usage trends to optimize the Bot’s performance.
 
 To detect, prevent, and address technical issues, abuse, or violations of Discord’s Terms of Service.
 
-To send announcements, updates, or notifications regarding the Bot (if you opt-in).
+To send announcements, updates, or notifications regarding the Bot.
 
 3. Information Sharing and Disclosure
 We do not sell, trade, or rent your personal information. We may share your information in limited circumstances, including:
